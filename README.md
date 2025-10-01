@@ -4,6 +4,10 @@ A comprehensive collection of Windows system tools and utilities.
 
 مجموعه‌ای جامع از ابزارها و برنامه‌های کاربردی سیستم ویندوز
 
+> 📖 **برای خلاصه توصیه به فارسی، [اینجا کلیک کنید](SUMMARY-FA.md)**
+> 
+> 📖 **For Persian summary of recommendations, [click here](SUMMARY-FA.md)**
+
 ## Overview / نمای کلی
 
 This repository aims to provide a curated collection of powerful Windows tools that can help users manage, optimize, and control their Windows systems effectively.
