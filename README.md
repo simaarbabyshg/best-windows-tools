@@ -10,11 +10,23 @@ This repository aims to provide a curated collection of powerful Windows tools t
 
 این مخزن قصد دارد مجموعه‌ای منتخب از ابزارهای قدرتمند ویندوز را ارائه دهد که به کاربران کمک می‌کند سیستم‌های ویندوز خود را به طور مؤثر مدیریت، بهینه‌سازی و کنترل کنند.
 
-## Platform Recommendations / توصیه‌های پلتفرم
+## Getting Started / شروع کار
+
+### Platform Recommendations / توصیه‌های پلتفرم
 
 For detailed platform recommendations and technical analysis, please see [PLATFORM_RECOMMENDATIONS.md](PLATFORM_RECOMMENDATIONS.md).
 
 برای توصیه‌های دقیق پلتفرم و تحلیل فنی، لطفاً به [PLATFORM_RECOMMENDATIONS.md](PLATFORM_RECOMMENDATIONS.md) مراجعه کنید.
+
+**Primary Recommendation:** C# with .NET Framework and WPF
+
+**توصیه اولیه:** C# با .NET Framework و WPF
+
+### Quick Start Guide / راهنمای شروع سریع
+
+Ready to start building? Check out our [Quick Start Guide](QUICKSTART.md) for step-by-step instructions on setting up your development environment and creating your first Windows tool.
+
+آماده شروع ساخت؟ [راهنمای شروع سریع](QUICKSTART.md) ما را برای دستورالعمل‌های گام به گام راه‌اندازی محیط توسعه و ایجاد اولین ابزار ویندوز خود بررسی کنید.
 
 ## Features (Planned) / ویژگی‌ها (برنامه‌ریزی شده)
 
